@@ -25,9 +25,9 @@ npx expo install expo-camera
     ],
 ```
 
-1. Copy [example](https://docs.expo.dev/versions/latest/sdk/camera/#usage) to [CameraTest.tsx](./components/CameraTest.tsx) and add it to [two.tsx](./app/(tabs)/two.tsx)
+4. Copy [example](https://docs.expo.dev/versions/latest/sdk/camera/#usage) to [CameraTest.tsx](./components/CameraTest.tsx) and add it to [two.tsx](./app/(tabs)/two.tsx)
 
-2. Start app and open in browser and navigate to tab Two.
+5. Start app and open in browser and navigate to tab Two.
 
 ```bash
 npm start
